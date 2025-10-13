@@ -2,7 +2,7 @@
 <html lang="pl=PL">
 <html>
         <head>
-                 <title> dominik okoński </title>
+                 <title> dominik okonski </title>
             </head>
          <body>
        Dominik okoński  
@@ -76,6 +76,55 @@ Co robi egocentryczny Niemiec?  <br />
  <br>
   <br>
    <br>
+
+<br><br>
+<h1>omediter to three calculations with different calculation characters</h1>
+<h1>You offer yours related to computer science</h1>
+
+<!-- three different bullet marks -->
+<ul style="list-style-type: square;">
+<li>Computer equipment</li>
+<li>Operating systems</li>
+<li>Usable programs</li>
+</ul>
+
+<ul style="list-style-type: circle;">
+<li>Keyboard</li>
+<li>Mice</li>
+<li>Monitor</li>
+</ul>
+
+<ul style="list-style-type: disc;">
+<li>Algorithms</li>
+<li>Databases</li>
+<li>Computer networks</li>
+</ul>
+
+<br><br>
+
+<h2>more are three numberings with different numbering characters</h2>
+<h2>You offer yours related to computer science</h2>
+
+<!-- three different numbering styles -->
+<ol type="1">
+<li>Enable computer</li>
+<li>Login to the system</li>
+<li>Start of the program</li>
+</ol>
+
+<ol type="A">
+<li>Creating a text document</li>
+<li>Saving file</li>
+<li>Printing</li>
+</ol>
+
+<ol type="i">
+<li>Web design</li>
+<li>Styling with CSS</li>
+<li>Adding JavaScript</li>
+</ol>
+<!---======= Task end 4 ==== -->
+
 
 Nazwisko ucznia &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Imie ucznia <br>
 <br>
