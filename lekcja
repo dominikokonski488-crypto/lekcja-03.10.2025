@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="pl=PL">
-<html>
+      <html>
         <head>
                  <title> dominik okonski </title>
             </head>
          <body>
        Dominik okoński  
-<body background="gdansk.jpg">treść strony></body>
+         <body background="gdansk.jpg">treść strony></body>
 
 <p align="right"> <font color="blue" size="1" face="Arial"> dominik</font> </p> <br>
 <p align="right"> <font color="purple" size="2" face="Arial">dominik </font> </p> <br>
@@ -79,7 +79,7 @@ Co robi egocentryczny Niemiec?  <br />
 
 Nazwisko ucznia &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Imie ucznia <br>
 <br>
-OkoNski &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dominik
+Okonski &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dominik
 
 <body bgcolor=#6B6B6B>treść strony></body>
  </html>
