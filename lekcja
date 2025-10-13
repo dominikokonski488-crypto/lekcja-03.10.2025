@@ -70,79 +70,12 @@ Dlaczego konie nie grają w szachy?  <br />
 <legend>Żart o niemcach</legend>
 Co robi egocentryczny Niemiec?  <br />                  
 <HR SIZE=4 WIDTH=50% ALIGN=LEFT COLOR=red> </fieldset>
-- Przytakuje<br />
+- Przytakuje<br/>
 
 <br>
  <br>
   <br>
    <br>
-<!-- wypunktowania: kwadrat, kółko, kropka -->
-  <div style="display:flex; gap:16px; flex-wrap:wrap;">
-    <div style="flex:1; min-width:200px;">
-      <h3 style="margin:6px 0;">Znak: kwadrat</h3>
-      <ul style="margin:0; padding-left:18px; list-style-type:square; list-style-position:inside;">
-        <li>Sprzęt komputerowy</li>
-        <li>Monitor</li>
-        <li>Klawiatura</li>
-      </ul>
-    </div>
-
-    <div style="flex:1; min-width:200px;">
-      <h3 style="margin:6px 0;">Znak: kółko</h3>
-      <ul style="margin:0; padding-left:18px; list-style-type:circle; list-style-position:inside;">
-        <li>System operacyjny</li>
-        <li>Przeglądarka</li>
-        <li>Edytor tekstu</li>
-      </ul>
-    </div>
-
-    <div style="flex:1; min-width:200px;">
-      <h3 style="margin:6px 0;">Znak: kropka</h3>
-      <ul style="margin:0; padding-left:18px; list-style-type:disc; list-style-position:inside;">
-        <li>Algorytmy</li>
-        <li>Bazy danych</li>
-        <li>Sieci komputerowe</li>
-      </ul>
-    </div>
-  </div>
-
-  <hr style="margin:14px 0; border:none; border-top:1px solid #ccc;">
-
-  <h2 style="margin:0 0 8px 0; font-size:20px;">Poniżej są trzy numerowania z różnymi stylami</h2>
-  <p style="margin:6px 0 12px 0;">Ty zaproponuj swoje, związane z informatyką</p>
-
-  <!-- numerowania: decimal, upper-alpha, lower-roman -->
-  <div style="display:flex; gap:16px; flex-wrap:wrap;">
-    <div style="flex:1; min-width:220px;">
-      <h3 style="margin:6px 0;">1, 2, 3 (decimal)</h3>
-      <ol style="margin:0; padding-left:20px; list-style-type:decimal;">
-        <li>Włączenie i logowanie</li>
-        <li>Uruchomienie programu</li>
-        <li>Zapisywanie pracy</li>
-      </ol>
-    </div>
-
-    <div style="flex:1; min-width:220px;">
-      <h3 style="margin:6px 0;">A, B, C (upper-alpha)</h3>
-      <ol style="margin:0; padding-left:20px; list-style-type:upper-alpha;">
-        <li>Tworzenie dokumentu</li>
-        <li>Formatowanie tekstu</li>
-        <li>Eksport do PDF</li>
-      </ol>
-    </div>
-
-    <div style="flex:1; min-width:220px;">
-      <h3 style="margin:6px 0;">i, ii, iii (lower-roman)</h3>
-      <ol style="margin:0; padding-left:20px; list-style-type:lower-roman;">
-        <li>Podstawy HTML</li>
-        <li>Podstawy CSS</li>
-        <li>Podstawy JavaScript</li>
-      </ol>
-    </div>
-  </div>
-</section>
-
-
 
 Nazwisko ucznia &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Imie ucznia <br>
 <br>
