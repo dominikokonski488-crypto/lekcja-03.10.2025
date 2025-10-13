@@ -1,13 +1,12 @@
 <!DOCTYPE html>
-       <html lang="pl=PL">
-       <html>
+<html lang="pl=PL">
+<html>
         <head>
                  <title> dominik okoński </title>
             </head>
          <body>
        Dominik okoński  
-
-   <body background="gdansk.jpg">treść strony></body>
+<body background="gdansk.jpg">treść strony></body>
 
 <p align="right"> <font color="blue" size="1" face="Arial"> dominik</font> </p> <br>
 <p align="right"> <font color="purple" size="2" face="Arial">dominik </font> </p> <br>
