@@ -59,7 +59,7 @@
 <H2 ALIGN=center> Suchary </H3>
 
 <fieldset> <HR SIZE=4 WIDTH=50% ALIGN=LEFT COLOR=yellow>
-<legend>Żart o koniu</legend>
+<legend>zart o koniu</legend>
 Dlaczego konie nie grają w szachy?  <br />                    
 <HR SIZE=5 WIDTH=50% ALIGN=LEFT COLOR=blue> </fieldset>
 - Bo nie lubią być bite<br />
@@ -76,59 +76,77 @@ Co robi egocentryczny Niemiec?  <br />
  <br>
   <br>
    <br>
+<!-- wypunktowania: kwadrat, kółko, kropka -->
+  <div style="display:flex; gap:16px; flex-wrap:wrap;">
+    <div style="flex:1; min-width:200px;">
+      <h3 style="margin:6px 0;">Znak: kwadrat</h3>
+      <ul style="margin:0; padding-left:18px; list-style-type:square; list-style-position:inside;">
+        <li>Sprzęt komputerowy</li>
+        <li>Monitor</li>
+        <li>Klawiatura</li>
+      </ul>
+    </div>
 
-<br><br>
-<h1>omediter to three calculations with different calculation characters</h1>
-<h1>You offer yours related to computer science</h1>
+    <div style="flex:1; min-width:200px;">
+      <h3 style="margin:6px 0;">Znak: kółko</h3>
+      <ul style="margin:0; padding-left:18px; list-style-type:circle; list-style-position:inside;">
+        <li>System operacyjny</li>
+        <li>Przeglądarka</li>
+        <li>Edytor tekstu</li>
+      </ul>
+    </div>
 
-<!-- three different bullet marks -->
-<ul style="list-style-type: square;">
-<li>Computer equipment</li>
-<li>Operating systems</li>
-<li>Usable programs</li>
-</ul>
+    <div style="flex:1; min-width:200px;">
+      <h3 style="margin:6px 0;">Znak: kropka</h3>
+      <ul style="margin:0; padding-left:18px; list-style-type:disc; list-style-position:inside;">
+        <li>Algorytmy</li>
+        <li>Bazy danych</li>
+        <li>Sieci komputerowe</li>
+      </ul>
+    </div>
+  </div>
 
-<ul style="list-style-type: circle;">
-<li>Keyboard</li>
-<li>Mice</li>
-<li>Monitor</li>
-</ul>
+  <hr style="margin:14px 0; border:none; border-top:1px solid #ccc;">
 
-<ul style="list-style-type: disc;">
-<li>Algorithms</li>
-<li>Databases</li>
-<li>Computer networks</li>
-</ul>
+  <h2 style="margin:0 0 8px 0; font-size:20px;">Poniżej są trzy numerowania z różnymi stylami</h2>
+  <p style="margin:6px 0 12px 0;">Ty zaproponuj swoje, związane z informatyką</p>
 
-<br><br>
+  <!-- numerowania: decimal, upper-alpha, lower-roman -->
+  <div style="display:flex; gap:16px; flex-wrap:wrap;">
+    <div style="flex:1; min-width:220px;">
+      <h3 style="margin:6px 0;">1, 2, 3 (decimal)</h3>
+      <ol style="margin:0; padding-left:20px; list-style-type:decimal;">
+        <li>Włączenie i logowanie</li>
+        <li>Uruchomienie programu</li>
+        <li>Zapisywanie pracy</li>
+      </ol>
+    </div>
 
-<h2>more are three numberings with different numbering characters</h2>
-<h2>You offer yours related to computer science</h2>
+    <div style="flex:1; min-width:220px;">
+      <h3 style="margin:6px 0;">A, B, C (upper-alpha)</h3>
+      <ol style="margin:0; padding-left:20px; list-style-type:upper-alpha;">
+        <li>Tworzenie dokumentu</li>
+        <li>Formatowanie tekstu</li>
+        <li>Eksport do PDF</li>
+      </ol>
+    </div>
 
-<!-- three different numbering styles -->
-<ol type="1">
-<li>Enable computer</li>
-<li>Login to the system</li>
-<li>Start of the program</li>
-</ol>
+    <div style="flex:1; min-width:220px;">
+      <h3 style="margin:6px 0;">i, ii, iii (lower-roman)</h3>
+      <ol style="margin:0; padding-left:20px; list-style-type:lower-roman;">
+        <li>Podstawy HTML</li>
+        <li>Podstawy CSS</li>
+        <li>Podstawy JavaScript</li>
+      </ol>
+    </div>
+  </div>
+</section>
 
-<ol type="A">
-<li>Creating a text document</li>
-<li>Saving file</li>
-<li>Printing</li>
-</ol>
-
-<ol type="i">
-<li>Web design</li>
-<li>Styling with CSS</li>
-<li>Adding JavaScript</li>
-</ol>
-<!---======= Task end 4 ==== -->
 
 
 Nazwisko ucznia &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Imie ucznia <br>
 <br>
-Okoński &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dominik
+OkoNski &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dominik
 
 <body bgcolor=#6B6B6B>treść strony></body>
  </html>
